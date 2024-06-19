@@ -1,0 +1,14 @@
+C:\Projeto C#\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto C#\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.AssemblyInfoInputs.cache
+C:\Projeto C#\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.AssemblyInfo.cs
+C:\Projeto C#\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Projeto C#\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.exe
+C:\Projeto C#\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.deps.json
+C:\Projeto C#\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.runtimeconfig.json
+C:\Projeto C#\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.dll
+C:\Projeto C#\Enumeracao\Enumeracao\bin\Debug\net8.0\Enumeracao.pdb
+C:\Projeto C#\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.dll
+C:\Projeto C#\Enumeracao\Enumeracao\obj\Debug\net8.0\refint\Enumeracao.dll
+C:\Projeto C#\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.pdb
+C:\Projeto C#\Enumeracao\Enumeracao\obj\Debug\net8.0\Enumeracao.genruntimeconfig.cache
+C:\Projeto C#\Enumeracao\Enumeracao\obj\Debug\net8.0\ref\Enumeracao.dll
